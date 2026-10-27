@@ -1,0 +1,12 @@
+opencv-python
+pillow
+requests
+edge-tts
+SpeechRecognition
+pyaudio
+fastapi
+uvicorn
+# jarvis3 (fully local)
+torch
+transformers
+gpt4all
